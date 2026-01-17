@@ -1,0 +1,40 @@
+
+You job will be to research webcomics.
+
+For our purposes a webcomic will be defined as "periodic original web content that is centered
+around a graphic. It is usually humorous, but may tell a continuing story"
+
+First, we'll need a list of the most popular webcomics. Here's some starting examples:
+http://questionablecontent.net/ 
+https://xkcd.com/
+
+Please generate a list of the top 100 most popular webcomics, their name and url. 
+
+terminology: a panel is a rectangular sub-section of the graphic. Some examples:
+https://xkcd.com/3194/ has 1 panel 
+https://xkcd.com/3192/ has 4 panels 
+https://questionablecontent.net/view.php?comic=5743 has 6 panels
+
+Next, you'll analyze the top 10 webcomics. To get averages, analyze 10 entries for each webcomic.
+Some data points to gather for each are are:
+
+- how often is a new comic published (daily, weekdays, semi-weekly, weekly, etc.)
+
+- On average, how many panels are in the typical entry? 
+
+- Where does the text for the comic appear? in the graphic, outside the graphic, above or below it, or both?
+
+- On average, how many words are in the typical entry?
+
+- are the graphics color or black-and-white? 
+
+- what is the average reading level for the comic? 
+
+- how long as the webcomic been published? 
+
+- who is the author of the webcomic?
+
+- how does the comic make money? Are there ads on the site? does the site sell merchandise? Are there affiliate links? is there a patreon link? 
+
+Output the findings in both markdown and json formats.
+
